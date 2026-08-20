@@ -1,4 +1,5 @@
 # 💰 Personal Finance Tracker
+![Personal Finance Tracker](personal-finance-tracker.png)
 
 A modern and responsive web application that helps users manage their personal finances, track income and expenses, and monitor their budget.
 
